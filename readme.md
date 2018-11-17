@@ -2,6 +2,12 @@
 2. An implementation of the Pollard-rho or baby-step-giant-step algorithm. Both algorithms can be found in the HAC.
 
 dl-brute <filename for inputs>.
+
 On input a file containing decimal-formatted ( p; g; h ), prints x to standard output.
+
+
 dl-efficient <filename for inputs>.
+
 On input a file containing decimal-formatted ( p; g; h ), prints x to standard output.
+
+(Works well for 20-40bit keys)
